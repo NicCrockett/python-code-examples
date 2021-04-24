@@ -97,3 +97,21 @@ Test Phone Number: 987 654 3210 - Test Results: False - Expected Results: False 
 Test Phone Number: (632) SSS-llll - Test Results: False - Expected Results: False - Pass or Fail: Pass
 Test Phone Number: [456] 852-0369 - Test Results: False - Expected Results: False - Pass or Fail: Pass
 Test Phone Number: (780) 555-3791 - Test Results: True - Expected Results: True - Pass or Fail: Pass
+
+Test results run on 2021-04-24 at 10.32.26 PM
+Test Phone Number: (123) 456-7890 - Test Results: True - Expected Results: True - Pass or Fail: Pass
+Test Phone Number: 123 456-7890 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (123( 456-7890 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (123)456-7890 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (098) 765-4321 - Test Results: True - Expected Results: True - Pass or Fail: Pass
+Test Phone Number: 1234567890 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (l23) 456-789O - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (147) 258-3690 - Test Results: True - Expected Results: True - Pass or Fail: Pass
+Test Phone Number: 789-456-1230 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: {357} 591-4826 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: 123_456_7890 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (159) 478-2360 - Test Results: True - Expected Results: True - Pass or Fail: Pass
+Test Phone Number: 987 654 3210 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (632) SSS-llll - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: [456] 852-0369 - Test Results: False - Expected Results: False - Pass or Fail: Pass
+Test Phone Number: (780) 555-3791 - Test Results: True - Expected Results: True - Pass or Fail: Pass
